@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @w00ferson
+- 🌱 I’m currently learning web design
+- 📫 How to reach me: dont
+- ⚡ Fun fact: i dont know what im doing
