@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @w00ferson
-- 🌱 I’m currently learning web design
-- 📫 How to reach me: dont
+- Hi, I’m @barkitect-dev
+- 🌱 I’m currently learning web design and python
 - ⚡ Fun fact: i dont know what im doing
