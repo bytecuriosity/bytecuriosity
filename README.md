@@ -1,3 +1,3 @@
 - Hi, I’m @barkitect-dev
-- I’m currently learning web design and python
+- I’m currently learning linux
 - Fun fact: i dont know what im doing
